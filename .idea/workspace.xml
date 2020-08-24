@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c0c3895-ef8d-41f8-9d28-4693b6235431" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/AbstractFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/Artist.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/Blue.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/BuilderDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/Circle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/CircleBuilder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/Color.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/ColorFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/FactoryProducer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/Green.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/Rectangle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/RectangleBuilder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/Red.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/Shape.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/ShapeBuilder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/ShapeFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/sliit/Square.java" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,12 +14,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BuilderDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BuilderDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/sliit/BuilderDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -82,7 +79,6 @@
         <option value="$PROJECT_DIR$/src/com/sliit/VehicleAssembler.java" />
         <option value="$PROJECT_DIR$/src/com/sliit/VehicleBuilder.java" />
         <option value="$PROJECT_DIR$/src/com/sliit/BuiderTest.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/com/sliit/AbstractFactoryPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/com/sliit/ShapeBuilder.java" />
         <option value="$PROJECT_DIR$/src/com/sliit/ColorBuilder.java" />
@@ -97,6 +93,7 @@
         <option value="$PROJECT_DIR$/src/com/sliit/Circle.java" />
         <option value="$PROJECT_DIR$/src/com/sliit/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/com/sliit/Square.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -241,12 +238,12 @@
       <workItem from="1597599149586" duration="2619000" />
       <workItem from="1597601936083" duration="5633000" />
       <workItem from="1598162983338" duration="616000" />
-      <workItem from="1598277833489" duration="5686000" />
+      <workItem from="1598277833489" duration="5845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15973000" />
+    <option name="totallyTimeSpent" value="16132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="-4" width="1879" height="1084" extended-state="6" />
@@ -312,16 +309,6 @@
     <entry file="file://$PROJECT_DIR$/src/com/sliit/Car.java" />
     <entry file="file://$PROJECT_DIR$/src/com/sliit/Vehicle.java" />
     <entry file="file://$PROJECT_DIR$/src/com/sliit/Bus.java" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sliit/BuiderTest.java" />
     <entry file="file://$PROJECT_DIR$/src/com/sliit/AbstractFactory.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -497,6 +484,17 @@
         <state relative-caret-position="48">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
